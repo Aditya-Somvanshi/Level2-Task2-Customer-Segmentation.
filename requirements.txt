@@ -1,0 +1,4 @@
+# Only needed if you want to re-prepare the data from the Excel file.
+# dashboard.html itself needs nothing: just open it in any browser.
+pandas
+openpyxl
